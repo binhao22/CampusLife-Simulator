@@ -3,4 +3,4 @@
 * Team Project
 * Project Period : 2021.09.15 ~ 2021.10.21
 
-* L2 keep on
+* L2 keep on mi
